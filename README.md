@@ -1,4 +1,9 @@
-## Hi there 👋
+# ¡Buenas a todos! Soy Juan 👋
+### Estudiante de Desarrollo de Aplicaciones Web (DAW)
+
+---
+
+## Un poco sobre mí 🏡
 
 <!--
 **Juanjo-0/Juanjo-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
