@@ -11,6 +11,11 @@ A dia de hoy me encuentro terminando el grado de desarrollador de aplicaciones w
 
 ---
 
+## Herramientas y tecnologías 🔧
+
+<img src="https://infimg.com/bimg/2016/09/introduccion-python-principantes.jpg" width="300" alt="Python">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwFCOaR7EXnEFLC2H1SNrSMjPX1sY6WVe9u_WGzSjMA&s=10" width="300" height="125" alt="HTML5_CSS">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi2WHaI-E4hRPF39PB7-V4s3TdBcHrDl-KWpObEaRhpA&s=10" width="300" alt="Angular">
 
 <!--
 **Juanjo-0/Juanjo-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
