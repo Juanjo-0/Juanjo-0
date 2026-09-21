@@ -1,9 +1,16 @@
 # ¡Buenas a todos! Soy Juan 👋
 ### Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
+> **“El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento”** - Stephen Hawking
+
 ---
 
 ## Un poco sobre mí 🏡
+
+A dia de hoy me encuentro terminando el grado de desarrollador de aplicaciones web **DAW**, me interesa el diseño wueb como es el *frontend*, aun que me manejo con todos los ambitos necesarios, puedo trabajar con `Linux` al igual que con `Windows`~10~ actualmente 11
+
+---
+
 
 <!--
 **Juanjo-0/Juanjo-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
