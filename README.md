@@ -38,7 +38,7 @@ A día de hoy me encuentro terminando el grado de desarrollador de aplicaciones 
 - [x] Actualizar mi equipo principal a la última versión del sistema operativo.
 - [x] Crear este archivo de presentación con formato Markdown.
 - [ ] Concluir mi primer proyecto de API con Python.
-- [ ] Finalizar mi fp de *DAW*.
+- [ ] Finalizar mi formación profesional de *DAW*.
 
 ---
 
