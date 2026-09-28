@@ -56,9 +56,9 @@ En lugar de proyectos, aquí te comparto los programas que manejo:
 ## Un poco de código 💻
 
 ```python
-# Función sencilla en Python para dar la bienvenida a mi perfil
+# Función en Python para dar la bienvenida
 def saludar(nombre, rol):
-    if rol == "Reclutador":
+    if rol == "Visitante":
         return f"¡Hola {nombre}! Echa un vistazo a mi perfil."
     else:
         return f"¡Bienvenido a mi perfil de GitHub, {nombre}!"
