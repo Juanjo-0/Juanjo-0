@@ -73,4 +73,10 @@ print(saludar("Visitante", "Estudiante"))
 * **LinkedIn:** linkedin.com/in/juan-usuario
 * **Email:** juan.daw@ejemplo.com
 
+---
+
+## Declaración del uso de IA
+
+Usada como herramienta de apoyo por mínimas dudas en la nueva sintaxis.
+
 
